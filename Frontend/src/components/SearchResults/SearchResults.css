@@ -1,0 +1,36 @@
+.list-props {
+    background-color:#E5E5E5;
+}
+
+/* .list-props {
+     
+} */
+
+.imagesearch{
+width:340px;
+}
+.column {
+    float: left;
+}
+
+
+
+.column left {
+    width: 20%;
+}
+
+.column right {
+    width: 60%;
+}
+
+
+container .container-traveler{
+
+    background:  none repeat scroll 0 0;
+    border-radius: 2px;
+    max-width: 30%;
+    padding-top: -15px;
+    padding: 5% ;
+ 
+    
+}
